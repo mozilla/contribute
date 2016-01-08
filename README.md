@@ -1,4 +1,4 @@
-# contribute
+# Contribute 
 Welcome to the Contribution Bazaar! Find contributors, collaborators, or new projects here! 
 (This is in the experimental phase, we'll be running it for x weeks to see how it works. If you like it let us know!)
 
