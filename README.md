@@ -1,7 +1,8 @@
 #Welcome to the Contribution Bazaar! 
-Find contributors, collaborators, or new projects to work on here! 
+Find contributors, collaborators, or new projects and ways to contribute here. 
 <br>
-Note: This is an experiment, we'll be running it for Q1. If you like it let me know by emailing lucy@mozilla.com. 
+<br>
+Note: This is an experiment, we'll be running it for Q1. 
 
 Here's how it works (posting): 
 - Step 1: Identify a task or projects you need help on (make sure it is something that can be completed in a fixed amount of time) i.e. Say "looking for 10 new foxfooders" instead of "looking for foxfooders"
