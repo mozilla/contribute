@@ -4,8 +4,10 @@ Find contributors, collaborators, or new projects and ways to contribute here.
 <br>
 Note: This is an experiment, we'll be running it for Q1. 
 
+**What should you post?** Any requests with a specific call to action! For example requesting that someone DO something, MAKE something, REGISTER for something, SHARE something. 
+
 Here's how it works (posting): 
-- Step 1: Identify a task or projects you need help on (make sure it is something that can be completed in a fixed amount of time) i.e. Say "looking for 10 new foxfooders" instead of "looking for foxfooders"
+- Step 1: Identify a task or projects you need help on that has a specific call to action.  I.e."Looking for 10 New Foxfooding Volunteers to Sign-Up" instead of "looking for foxfooders"
 - Step 2: Use the issue template below to create your issue
 - Step 3: When your issue is completed (yay!) say thank you to your new friend and close the issue
 
@@ -18,9 +20,9 @@ Here's how it works (contributing):
 ## Issues Template: 
 Use this format when creating an issue to capture what you would like done. 
 
-* Title: [Should state what you are looking for in concrete terms i.e. "Need Copy Review"] 
-* Goal: [What do you want done]
-* Info: [What it will be used for/where it will go]
+* Title: [Should state what you are looking for in terms of a call to action i.e. "Need Copy Review"] 
+* Goal: [What do you want people to do/make/fix/sign-up for]
+* Info: [Why should they do this? Where will it be used? How much time is required]
 * Additional Information: [Link to exmaples, references, similar things etc.]
 * Deadline: [When would you like this done by]
 * Tag: [Writer Needed, Developer Needed, Collaborator Needed, Tester Needed etc.]
