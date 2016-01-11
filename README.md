@@ -1,5 +1,4 @@
-# Contribute 
-** Welcome to the Contribution Bazaar!**
+#Welcome to the Contribution Bazaar! 
 Find contributors, collaborators, or new projects to work on here! 
 <br>
 Note: This is an experiment, we'll be running it for Q1. If you like it let me know by emailing lucy@mozilla.com. 
